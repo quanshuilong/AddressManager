@@ -1,4 +1,0 @@
-server.port=7040
-server.name=/am-server
-server.resource=E:/idea_Co_item/addressManager/longhua/Address-Manager/AM-Server/src/main/webapp
-server.descriptor=WEB-INF/web.xml

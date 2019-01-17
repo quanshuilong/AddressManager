@@ -1,2 +1,0 @@
-2019-01-11 09:43:39,790 [WARN ]  (AbstractServer.java.disconnected:197) -  [DUBBO] All clients has discontected from /192.168.20.26:21884. You can graceful shutdown now., dubbo version: 2.5.3, current host: 127.0.0.1
-2019-01-11 11:06:24,868 [WARN ]  (AbstractServer.java.disconnected:197) -  [DUBBO] All clients has discontected from /192.168.20.26:21884. You can graceful shutdown now., dubbo version: 2.5.3, current host: 127.0.0.1

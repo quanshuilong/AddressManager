@@ -1,3 +1,0 @@
-2019-01-11 10:57:46,962 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==>  Preparing: SELECT count(*) FROM gdb_district a WHERE a.county_id = ? 
-2019-01-11 10:57:47,003 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==> Parameters: 4480(Integer)
-2019-01-11 10:57:47,025 [DEBUG]  (BaseJdbcLogger.java.debug:139) - <==      Total: 1

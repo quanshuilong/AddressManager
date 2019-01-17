@@ -1,5 +1,0 @@
-2019-01-02 19:41:50,838 [INFO ]  (Log.java.initialized:186) - Logging initialized @3391ms
-2019-01-02 19:41:50,994 [INFO ]  (Server.java.doStart:327) - jetty-9.2.6.v20141205
-2019-01-02 19:41:52,231 [INFO ]  (ContextHandler.java.doStart:744) - Started o.e.j.w.WebAppContext@36916eb0{/ui,file:/E:/idea_Co_item/addressManager/longhua/Address-Manager/AM-UI/src/main/webapp,AVAILABLE}
-2019-01-02 19:41:52,334 [INFO ]  (AbstractConnector.java.doStart:266) - Started ServerConnector@7188af83{HTTP/1.1}{0.0.0.0:7041}
-2019-01-02 19:41:52,334 [INFO ]  (Server.java.doStart:379) - Started @4898ms

@@ -1,6 +1,0 @@
-2019-01-08 09:36:40,848 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==>  Preparing: SELECT count(*) FROM gdb_district a WHERE a.county_id = ? 
-2019-01-08 09:36:40,874 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==> Parameters: 4480(Integer)
-2019-01-08 09:36:40,898 [DEBUG]  (BaseJdbcLogger.java.debug:139) - <==      Total: 1
-2019-01-08 09:45:29,095 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==>  Preparing: SELECT count(*) FROM gdb_district a WHERE a.county_id = ? 
-2019-01-08 09:45:29,098 [DEBUG]  (BaseJdbcLogger.java.debug:139) - ==> Parameters: 4480(Integer)
-2019-01-08 09:45:29,103 [DEBUG]  (BaseJdbcLogger.java.debug:139) - <==      Total: 1
